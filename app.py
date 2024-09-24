@@ -21,7 +21,7 @@ def analyze_image(base64_image, user_text):
     return response.json()["choices"][0]["message"]["content"]
 
 def main():
-    st.title("Image Analysis App")
+    st.title("Pixtral Demo App")
 
     uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
