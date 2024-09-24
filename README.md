@@ -1,4 +1,4 @@
-# Mistral Vision App
+# Pixtral
 
 This is a Streamlit-based web application that allows users to upload images and analyze them using the Mistral AI API.
 
